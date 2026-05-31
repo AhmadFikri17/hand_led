@@ -50,7 +50,7 @@ pip install opencv-python mediapipe pyserial
 project/
 │
 ├── hand_detection.py
-├── esp32_hand_control.ino
+├── esp32_c3Supermini_control.ino
 └── README.md
 ```
 
