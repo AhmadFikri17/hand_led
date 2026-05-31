@@ -13,7 +13,7 @@ Jumlah jari yang terdeteksi akan mengontrol 5 LED pada ESP32:
 
 ## Hardware
 
-* ESP32 DevKit V1
+* ESP32 C3 SUPER MINI
 * 5x LED
 * 5x Resistor 220Ω
 * Webcam / Laptop Camera
